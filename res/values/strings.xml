@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HelloAndroid!</string>
+    <string name="app_name">HelloAndroid</string>
+    <string name="nameText">Name:</string>
+    <string name="welcome1">Yer a </string>
+    <string name="welcome2">, </string>
+    <string name="welcome3">Welcome to the </string>
+    <string name="welcomeComp1"></string>
+    <string name="welcomeComp2"></string>
+    <string-array name="classes">
+        <item>Ninja</item>
+        <item>Pirate</item>
+        <item>Robot</item>
+        <item>Wizard</item>
+        <item>Zombie</item>
+    </string-array>
+    <string-array name="houses">
+        <item>Angry Amish</item>
+        <item>Babbling Bikers</item>
+        <item>Calamitous Cannibals</item>
+        <item>Devious Dudes</item>
+        <item>Eccentric Eaters</item>
+    </string-array>
+
+</resources>
